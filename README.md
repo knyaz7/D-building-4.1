@@ -10,9 +10,9 @@
 ## Файловая система
 
 api/app.py - основной файл бэкенда
-`python app.py`
+`python app.py`  
 api/requirements.txt - зависимости бэкенда
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`  
 
 ## Реализация бэкенда
 
